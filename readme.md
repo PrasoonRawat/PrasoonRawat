@@ -7,7 +7,7 @@
 
 
 **`Digital Craftsman (Developer//Filmmaker/Video Editor)`** 
-
+<p> <img src="https://komarev.com/ghpvc/?username=PrasoonRawat"> </p>
 Hello there! 👋 I'm Prasoon Priya Rawat, a passionate front-end web developer, UI/UX designer, and a creative mind in the world of video production. With a solid foundation in data structures and algorithms (DSA), I love the dual challenge of crafting seamless web experiences and solving complex coding problems.
 <br>
 <br>
