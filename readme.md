@@ -20,9 +20,9 @@ Beyond the realm of code, I am also a videographer and video editor. I believe i
          <img alt="youtube subscribers" title="This i my ranking on Leetcode" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPrasoonRawat&logo=leetcode&logoColor=yellow"/></a>
       <a href="https://leetcode.com/PrasoonRawat/">     
       <img alt="youtube views" title="This is my contest rating" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPrasoonRawat&logo=leetcode&logoColor=yellow"/></a>
-      <a href="https://github.com/ForrestKnight?tab=followers">
+      <a href="https://github.com/PrasoonRawat?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/PrasoonRawat?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+      <a href="https://github.com/PrasoonRawat?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/PrasoonRawat?color=55960c&style=for-the-badge&labelColor=488206&logo=star"/></a>
    </p>
 </div>
