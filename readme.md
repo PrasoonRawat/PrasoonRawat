@@ -13,6 +13,9 @@ Hello there! 👋 I'm Prasoon Priya Rawat, a passionate front-end web developer,
 <br>
 Beyond the realm of code, I am also a videographer and video editor. I believe in the power of visual storytelling, and I channel my creativity into producing captivating videos. 
 <!--You can catch a glimpse of my video projects on my-->
+
+<br>
+
 <div align ="center" style="border: 1px solid #2E303A; border-radius:10px; padding:20px; max-width: 100%;">
    <p>
       <a href = "https://leetcode.com/PrasoonRawat/"><img alt="Contest rating and quantile" title="have a look at my leetcodde journey" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPrasoonRawat&logo=leetcode&logoColor=yellow">
